@@ -3,8 +3,8 @@ public class StringReverse {
 	
 	public static void main(String[] args) {
 		
-		String str = "Hello Pune, How are you ?î";
-		//int length = str.length();
+		String str = "Hello Pune, How are you ?‚Äù";
+	
 		//System.out.println(str.charAt(11));
 		
 		String reverse = "";
